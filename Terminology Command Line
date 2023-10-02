@@ -1,0 +1,45 @@
+COMMAND LINE IN TERMINAL
+pwd : print working directory (Shows you the path to the working directory.By typing this we’re asking the
+computer which folder(directory) we are in.
+
+ls : short form of list. It lists the folders and files inside my current working directory (pwd) If you wanna go into
+one of these folders we type this:
+
+cd ( change directory) and the name of the file.
+Eg: cd Documents or cd Music
+
+If you wanna go back one level before, you type: cd ..
+• You can go through old commands by using up or down arrows
+
+• Cmd k: This helps you look your terminal clean.You can still use arrows!because it doesn’t clean the history.
+Ctr a: Gets you to the beginning of the cursor, Ctr e: to the end of the line. Click option and cursor where you
+wanna go. Ctr u: it deletes the whole line
+
+If you wanna delete the command you wrote because you may think you’ve made a typo.So in that case just ctr c
+to kill the running.
+
+• Mkdir:(make directory) it creates a folder.
+Eg: mkdir “Northcoders course”. If you don’t use the quotation mark,it would create two folders named
+Northcoders and course. Or another way to create the folder is:
+Eg: mkdir Northcoders\ course. There is a backslash and a space before course.You can create more folders on
+the same line.
+
+• Touch: this command will create a file. Eg: touch term-paper.txt. To open that file use Open command.
+Eg: Open term-paper.txt
+To move a file into another folder use mv command. Eg: mv+file name+which folder to move by using absolute
+path or relative path
+
+Eg: mv biology-spreadsheet.csv ~/Desktop/Second\ semester/Biology (absolute path)
+• cp command: eg: cp end-of-term-paper.csv ../Final\ papers1
+
+• Also there is echo command.It allows you to paste a text inside a txt file.
+Eg: echo “hello world, how are you today.How is life going?” > paper.txt. So pasted the text inside the quotation
+mark and placed it into paper.txt. Before writing the name of the txt, we need to use > sign to direct it.
+To see the content of txt, we use cat command
+Eg: cat notes.txt
+
+• grep : to find a content inside a text.
+Eg: grep how paper.txt (We look for word how in paper.text But here that grep command will show the lines
+which consists “how”. While coding grep will help you.
+Terminal Commands
+Sunday, 1 October 2023 23:04
