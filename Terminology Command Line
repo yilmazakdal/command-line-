@@ -11,7 +11,7 @@ Eg: cd Documents or cd Music
 If you wanna go back one level before, you type: cd ..
 • You can go through old commands by using up or down arrows
 
-• Cmd k: This helps you look your terminal clean.You can still use arrows!because it doesn’t clean the history.
+• Cmd k: This helps you look your terminal clean.You can still use arrows!because it doesn’t clean the history. Remember, you can also type the command 'clear'.
 Ctr a: Gets you to the beginning of the cursor, Ctr e: to the end of the line. Click option and cursor where you
 wanna go. Ctr u: it deletes the whole line
 
